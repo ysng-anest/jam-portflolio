@@ -1,4 +1,6 @@
 # jam_portfolio
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9e951e7f-7920-4e0b-bb68-ce311d12317c/deploy-status)](https://app.netlify.com/sites/jamportflolio/deploys)
+
 
 ## Build Setup
 
@@ -18,3 +20,4 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
